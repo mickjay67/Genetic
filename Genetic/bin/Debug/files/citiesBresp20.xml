@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Lincoln, ND 58504, USA</origin_address>
+  <destination_address>Lincoln, MI 48742, USA</destination_address>
+  <destination_address>Lincoln, NE, USA</destination_address>
+  <destination_address>Lincoln City, IN, USA</destination_address>
+  <destination_address>Lincoln, ME 04457, USA</destination_address>
+  <destination_address>Lincoln, PA, USA</destination_address>
+  <destination_address>Lincoln, NY, USA</destination_address>
+  <destination_address>Lincoln, NM 88338, USA</destination_address>
+  <destination_address>7591 Annapolis Rd, Landover Hills, MD 20784, USA</destination_address>
+  <destination_address>Buffalo, WY 82834, USA</destination_address>
+  <destination_address>Lincoln, IA 50635, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>60038</value>
+        <text>16 hours 41 mins</text>
+      </duration>
+      <distance>
+        <value>1698078</value>
+        <text>1,698 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>33802</value>
+        <text>9 hours 23 mins</text>
+      </duration>
+      <distance>
+        <value>1063996</value>
+        <text>1,064 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>61054</value>
+        <text>16 hours 58 mins</text>
+      </duration>
+      <distance>
+        <value>1838633</value>
+        <text>1,839 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>111195</value>
+        <text>1 day 7 hours</text>
+      </duration>
+      <distance>
+        <value>3362259</value>
+        <text>3,362 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>70495</value>
+        <text>19 hours 35 mins</text>
+      </duration>
+      <distance>
+        <value>2115765</value>
+        <text>2,116 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>81738</value>
+        <text>22 hours 42 mins</text>
+      </duration>
+      <distance>
+        <value>2464402</value>
+        <text>2,464 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>66823</value>
+        <text>18 hours 34 mins</text>
+      </duration>
+      <distance>
+        <value>1968631</value>
+        <text>1,969 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>81752</value>
+        <text>22 hours 43 mins</text>
+      </duration>
+      <distance>
+        <value>2470694</value>
+        <text>2,471 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>26023</value>
+        <text>7 hours 14 mins</text>
+      </duration>
+      <distance>
+        <value>758183</value>
+        <text>758 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>34995</value>
+        <text>9 hours 43 mins</text>
+      </duration>
+      <distance>
+        <value>1047217</value>
+        <text>1,047 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

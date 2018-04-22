@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Fries, VA, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>59543</value>
+        <text>16 hours 32 mins</text>
+      </duration>
+      <distance>
+        <value>1745727</value>
+        <text>1,746 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>51121</value>
+        <text>14 hours 12 mins</text>
+      </duration>
+      <distance>
+        <value>1509498</value>
+        <text>1,509 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>14740</value>
+        <text>4 hours 6 mins</text>
+      </duration>
+      <distance>
+        <value>409930</value>
+        <text>410 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>32882</value>
+        <text>9 hours 8 mins</text>
+      </duration>
+      <distance>
+        <value>945564</value>
+        <text>946 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>32401</value>
+        <text>9 hours 0 mins</text>
+      </duration>
+      <distance>
+        <value>876918</value>
+        <text>877 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

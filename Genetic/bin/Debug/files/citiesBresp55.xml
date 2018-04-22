@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Lincoln, NE, USA</origin_address>
+  <destination_address>Sault Ste. Marie, MI 49783, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>50954</value>
+        <text>14 hours 9 mins</text>
+      </duration>
+      <distance>
+        <value>1451637</value>
+        <text>1,452 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

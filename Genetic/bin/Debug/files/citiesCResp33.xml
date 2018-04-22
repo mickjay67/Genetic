@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Climax, GA 39834, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>69461</value>
+        <text>19 hours 18 mins</text>
+      </duration>
+      <distance>
+        <value>2049080</value>
+        <text>2,049 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>38610</value>
+        <text>10 hours 44 mins</text>
+      </duration>
+      <distance>
+        <value>1089028</value>
+        <text>1,089 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>35378</value>
+        <text>9 hours 50 mins</text>
+      </duration>
+      <distance>
+        <value>1009228</value>
+        <text>1,009 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>39862</value>
+        <text>11 hours 4 mins</text>
+      </duration>
+      <distance>
+        <value>1122468</value>
+        <text>1,122 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>51593</value>
+        <text>14 hours 20 mins</text>
+      </duration>
+      <distance>
+        <value>1509371</value>
+        <text>1,509 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

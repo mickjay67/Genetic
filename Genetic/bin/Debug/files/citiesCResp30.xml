@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Okay, OK, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>35257</value>
+        <text>9 hours 48 mins</text>
+      </duration>
+      <distance>
+        <value>1062108</value>
+        <text>1,062 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>17608</value>
+        <text>4 hours 53 mins</text>
+      </duration>
+      <distance>
+        <value>464681</value>
+        <text>465 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>63333</value>
+        <text>17 hours 36 mins</text>
+      </duration>
+      <distance>
+        <value>1914782</value>
+        <text>1,915 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>29971</value>
+        <text>8 hours 20 mins</text>
+      </duration>
+      <distance>
+        <value>856504</value>
+        <text>857 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>44740</value>
+        <text>12 hours 26 mins</text>
+      </duration>
+      <distance>
+        <value>1313251</value>
+        <text>1,313 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

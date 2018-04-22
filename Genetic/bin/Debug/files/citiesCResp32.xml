@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Three Way, TN 38343, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>41423</value>
+        <text>11 hours 30 mins</text>
+      </duration>
+      <distance>
+        <value>1224768</value>
+        <text>1,225 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>23694</value>
+        <text>6 hours 35 mins</text>
+      </duration>
+      <distance>
+        <value>692609</value>
+        <text>693 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>40705</value>
+        <text>11 hours 18 mins</text>
+      </duration>
+      <distance>
+        <value>1213495</value>
+        <text>1,213 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>18084</value>
+        <text>5 hours 1 min</text>
+      </duration>
+      <distance>
+        <value>487030</value>
+        <text>487 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>33324</value>
+        <text>9 hours 15 mins</text>
+      </duration>
+      <distance>
+        <value>952619</value>
+        <text>953 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

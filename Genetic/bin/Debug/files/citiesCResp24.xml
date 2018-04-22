@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Ninety Six, SC 29666, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>64939</value>
+        <text>18 hours 2 mins</text>
+      </duration>
+      <distance>
+        <value>1942653</value>
+        <text>1,943 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>44022</value>
+        <text>12 hours 14 mins</text>
+      </duration>
+      <distance>
+        <value>1304147</value>
+        <text>1,304 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>18907</value>
+        <text>5 hours 15 mins</text>
+      </duration>
+      <distance>
+        <value>560493</value>
+        <text>560 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>37193</value>
+        <text>10 hours 20 mins</text>
+      </duration>
+      <distance>
+        <value>1059054</value>
+        <text>1,059 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>41656</value>
+        <text>11 hours 34 mins</text>
+      </duration>
+      <distance>
+        <value>1196655</value>
+        <text>1,197 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

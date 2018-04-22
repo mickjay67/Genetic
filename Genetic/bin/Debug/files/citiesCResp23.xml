@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Hurt, VA 24563, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>64697</value>
+        <text>17 hours 58 mins</text>
+      </duration>
+      <distance>
+        <value>1860635</value>
+        <text>1,861 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>56363</value>
+        <text>15 hours 39 mins</text>
+      </duration>
+      <distance>
+        <value>1689603</value>
+        <text>1,690 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>12018</value>
+        <text>3 hours 20 mins</text>
+      </duration>
+      <distance>
+        <value>259484</value>
+        <text>259 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>38036</value>
+        <text>10 hours 34 mins</text>
+      </duration>
+      <distance>
+        <value>1060471</value>
+        <text>1,060 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>37555</value>
+        <text>10 hours 26 mins</text>
+      </duration>
+      <distance>
+        <value>991826</value>
+        <text>992 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

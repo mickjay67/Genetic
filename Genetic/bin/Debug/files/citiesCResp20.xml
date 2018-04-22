@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Concrete, WA 98237, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>92960</value>
+        <text>1 day 2 hours</text>
+      </duration>
+      <distance>
+        <value>2733198</value>
+        <text>2,733 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>127695</value>
+        <text>1 day 11 hours</text>
+      </duration>
+      <distance>
+        <value>3831768</value>
+        <text>3,832 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>163233</value>
+        <text>1 day 21 hours</text>
+      </duration>
+      <distance>
+        <value>4898186</value>
+        <text>4,898 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>124375</value>
+        <text>1 day 11 hours</text>
+      </duration>
+      <distance>
+        <value>3671058</value>
+        <text>3,671 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>123873</value>
+        <text>1 day 10 hours</text>
+      </duration>
+      <distance>
+        <value>3710997</value>
+        <text>3,711 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

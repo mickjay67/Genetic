@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Whynot, NC 27341, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>65526</value>
+        <text>18 hours 12 mins</text>
+      </duration>
+      <distance>
+        <value>1940302</value>
+        <text>1,940 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>52051</value>
+        <text>14 hours 28 mins</text>
+      </duration>
+      <distance>
+        <value>1557568</value>
+        <text>1,558 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>9371</value>
+        <text>2 hours 36 mins</text>
+      </duration>
+      <distance>
+        <value>255046</value>
+        <text>255 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>38865</value>
+        <text>10 hours 48 mins</text>
+      </duration>
+      <distance>
+        <value>1140139</value>
+        <text>1,140 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>38384</value>
+        <text>10 hours 40 mins</text>
+      </duration>
+      <distance>
+        <value>1071493</value>
+        <text>1,071 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

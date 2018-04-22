@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Cut and Shoot, TX, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>59265</value>
+        <text>16 hours 28 mins</text>
+      </duration>
+      <distance>
+        <value>1770265</value>
+        <text>1,770 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>13011</value>
+        <text>3 hours 37 mins</text>
+      </duration>
+      <distance>
+        <value>338402</value>
+        <text>338 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>66405</value>
+        <text>18 hours 27 mins</text>
+      </duration>
+      <distance>
+        <value>2054455</value>
+        <text>2,054 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>48897</value>
+        <text>13 hours 35 mins</text>
+      </duration>
+      <distance>
+        <value>1413681</value>
+        <text>1,414 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>64251</value>
+        <text>17 hours 51 mins</text>
+      </duration>
+      <distance>
+        <value>1890902</value>
+        <text>1,891 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

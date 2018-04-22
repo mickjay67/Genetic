@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Soda Springs, ID 83276, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>59802</value>
+        <text>16 hours 37 mins</text>
+      </duration>
+      <distance>
+        <value>1799759</value>
+        <text>1,800 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>80665</value>
+        <text>22 hours 24 mins</text>
+      </duration>
+      <distance>
+        <value>2427454</value>
+        <text>2,427 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>118554</value>
+        <text>1 day 9 hours</text>
+      </duration>
+      <distance>
+        <value>3592777</value>
+        <text>3,593 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>78043</value>
+        <text>21 hours 41 mins</text>
+      </duration>
+      <distance>
+        <value>2342629</value>
+        <text>2,343 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>81842</value>
+        <text>22 hours 44 mins</text>
+      </duration>
+      <distance>
+        <value>2482313</value>
+        <text>2,482 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

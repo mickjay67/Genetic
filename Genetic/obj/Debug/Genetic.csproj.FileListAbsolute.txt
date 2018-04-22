@@ -7,3 +7,13 @@ C:\Users\rc9467ei\Desktop\git\GeneticAlgo\Genetic\Genetic\obj\Debug\Genetic.Prop
 C:\Users\rc9467ei\Desktop\git\GeneticAlgo\Genetic\Genetic\obj\Debug\Genetic.csproj.GenerateResource.Cache
 C:\Users\rc9467ei\Desktop\git\GeneticAlgo\Genetic\Genetic\obj\Debug\Genetic.exe
 C:\Users\rc9467ei\Desktop\git\GeneticAlgo\Genetic\Genetic\obj\Debug\Genetic.pdb
+S:\School\EventDriven\Projects\Genetic\Genetic\bin\Debug\Genetic.exe.config
+S:\School\EventDriven\Projects\Genetic\Genetic\bin\Debug\Genetic.exe
+S:\School\EventDriven\Projects\Genetic\Genetic\bin\Debug\Genetic.pdb
+S:\School\EventDriven\Projects\Genetic\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+S:\School\EventDriven\Projects\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+S:\School\EventDriven\Projects\Genetic\Genetic\obj\Debug\Genetic.Properties.Resources.resources
+S:\School\EventDriven\Projects\Genetic\Genetic\obj\Debug\Genetic.csproj.GenerateResource.cache
+S:\School\EventDriven\Projects\Genetic\Genetic\obj\Debug\Genetic.csproj.CoreCompileInputs.cache
+S:\School\EventDriven\Projects\Genetic\Genetic\obj\Debug\Genetic.exe
+S:\School\EventDriven\Projects\Genetic\Genetic\obj\Debug\Genetic.pdb

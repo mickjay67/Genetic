@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Atomic City, ID 83221, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>64151</value>
+        <text>17 hours 49 mins</text>
+      </duration>
+      <distance>
+        <value>1844027</value>
+        <text>1,844 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>86806</value>
+        <text>1 day 0 hours</text>
+      </duration>
+      <distance>
+        <value>2601710</value>
+        <text>2,602 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>124695</value>
+        <text>1 day 11 hours</text>
+      </duration>
+      <distance>
+        <value>3767033</value>
+        <text>3,767 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>84184</value>
+        <text>23 hours 23 mins</text>
+      </duration>
+      <distance>
+        <value>2516884</value>
+        <text>2,517 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>87984</value>
+        <text>1 day 0 hours</text>
+      </duration>
+      <distance>
+        <value>2656569</value>
+        <text>2,657 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

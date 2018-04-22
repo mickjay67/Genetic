@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Orlando, FL, USA</origin_address>
+  <destination_address>Sault Ste. Marie, MI 49783, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>76233</value>
+        <text>21 hours 11 mins</text>
+      </duration>
+      <distance>
+        <value>2377193</value>
+        <text>2,377 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Lincolnton, GA 30817, USA</origin_address>
+  <destination_address>Sault Ste. Marie, MI 49783, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>59677</value>
+        <text>16 hours 35 mins</text>
+      </duration>
+      <distance>
+        <value>1771547</value>
+        <text>1,772 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

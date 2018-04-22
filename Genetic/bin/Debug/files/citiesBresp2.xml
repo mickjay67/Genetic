@@ -1,0 +1,1144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Lincoln, NH, USA</origin_address>
+  <origin_address>Lincoln, VA 20158, USA</origin_address>
+  <origin_address>Lincoln, MA, USA</origin_address>
+  <origin_address>Lincoln, AL, USA</origin_address>
+  <origin_address>Lincolnton, GA 30817, USA</origin_address>
+  <origin_address>Lincoln, KS 67455, USA</origin_address>
+  <origin_address>Neville, OH, USA</origin_address>
+  <origin_address>Lincoln Village, OH 43228, USA</origin_address>
+  <origin_address>Manitou Springs, CO 80829, USA</origin_address>
+  <origin_address>Orlando, FL, USA</origin_address>
+  <destination_address>Lincoln, NH, USA</destination_address>
+  <destination_address>Lincoln, VA 20158, USA</destination_address>
+  <destination_address>Lincoln, MA, USA</destination_address>
+  <destination_address>Lincoln, AL, USA</destination_address>
+  <destination_address>Lincolnton, GA 30817, USA</destination_address>
+  <destination_address>Lincoln, KS 67455, USA</destination_address>
+  <destination_address>Neville, OH, USA</destination_address>
+  <destination_address>Lincoln Village, OH 43228, USA</destination_address>
+  <destination_address>Manitou Springs, CO 80829, USA</destination_address>
+  <destination_address>Orlando, FL, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>33529</value>
+        <text>9 hours 19 mins</text>
+      </duration>
+      <distance>
+        <value>954310</value>
+        <text>954 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>7376</value>
+        <text>2 hours 3 mins</text>
+      </duration>
+      <distance>
+        <value>210702</value>
+        <text>211 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>68852</value>
+        <text>19 hours 8 mins</text>
+      </duration>
+      <distance>
+        <value>2041425</value>
+        <text>2,041 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>62097</value>
+        <text>17 hours 15 mins</text>
+      </duration>
+      <distance>
+        <value>1833665</value>
+        <text>1,834 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>91827</value>
+        <text>1 day 2 hours</text>
+      </duration>
+      <distance>
+        <value>2677746</value>
+        <text>2,678 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>53544</value>
+        <text>14 hours 52 mins</text>
+      </duration>
+      <distance>
+        <value>1490023</value>
+        <text>1,490 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>46689</value>
+        <text>12 hours 58 mins</text>
+      </duration>
+      <distance>
+        <value>1296651</value>
+        <text>1,297 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>112073</value>
+        <text>1 day 7 hours</text>
+      </duration>
+      <distance>
+        <value>3291012</value>
+        <text>3,291 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>74435</value>
+        <text>20 hours 41 mins</text>
+      </duration>
+      <distance>
+        <value>2248945</value>
+        <text>2,249 km</text>
+      </distance>
+    </element>
+  </row>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>33427</value>
+        <text>9 hours 17 mins</text>
+      </duration>
+      <distance>
+        <value>952547</value>
+        <text>953 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>27236</value>
+        <text>7 hours 34 mins</text>
+      </duration>
+      <distance>
+        <value>765564</value>
+        <text>766 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>37317</value>
+        <text>10 hours 22 mins</text>
+      </duration>
+      <distance>
+        <value>1100921</value>
+        <text>1,101 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>32278</value>
+        <text>8 hours 58 mins</text>
+      </duration>
+      <distance>
+        <value>909294</value>
+        <text>909 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>67765</value>
+        <text>18 hours 49 mins</text>
+      </duration>
+      <distance>
+        <value>1969986</value>
+        <text>1,970 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>28203</value>
+        <text>7 hours 50 mins</text>
+      </duration>
+      <distance>
+        <value>732209</value>
+        <text>732 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>22654</value>
+        <text>6 hours 18 mins</text>
+      </duration>
+      <distance>
+        <value>589371</value>
+        <text>589 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>88011</value>
+        <text>1 day 0 hours</text>
+      </duration>
+      <distance>
+        <value>2583252</value>
+        <text>2,583 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>45617</value>
+        <text>12 hours 40 mins</text>
+      </duration>
+      <distance>
+        <value>1419463</value>
+        <text>1,419 km</text>
+      </distance>
+    </element>
+  </row>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>7594</value>
+        <text>2 hours 7 mins</text>
+      </duration>
+      <distance>
+        <value>215702</value>
+        <text>216 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>27545</value>
+        <text>7 hours 39 mins</text>
+      </duration>
+      <distance>
+        <value>773503</value>
+        <text>774 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>62868</value>
+        <text>17 hours 28 mins</text>
+      </duration>
+      <distance>
+        <value>1860617</value>
+        <text>1,861 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>56113</value>
+        <text>15 hours 35 mins</text>
+      </duration>
+      <distance>
+        <value>1652858</value>
+        <text>1,653 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>87238</value>
+        <text>1 day 0 hours</text>
+      </duration>
+      <distance>
+        <value>2620418</value>
+        <text>2,620 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>48954</value>
+        <text>13 hours 36 mins</text>
+      </duration>
+      <distance>
+        <value>1432695</value>
+        <text>1,433 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>42099</value>
+        <text>11 hours 42 mins</text>
+      </duration>
+      <distance>
+        <value>1239323</value>
+        <text>1,239 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>107484</value>
+        <text>1 day 6 hours</text>
+      </duration>
+      <distance>
+        <value>3233685</value>
+        <text>3,234 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>68451</value>
+        <text>19 hours 1 min</text>
+      </duration>
+      <distance>
+        <value>2068138</value>
+        <text>2,068 km</text>
+      </distance>
+    </element>
+  </row>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>68859</value>
+        <text>19 hours 8 mins</text>
+      </duration>
+      <distance>
+        <value>2031033</value>
+        <text>2,031 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>37268</value>
+        <text>10 hours 21 mins</text>
+      </duration>
+      <distance>
+        <value>1100085</value>
+        <text>1,100 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>62668</value>
+        <text>17 hours 24 mins</text>
+      </duration>
+      <distance>
+        <value>1844050</value>
+        <text>1,844 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>13024</value>
+        <text>3 hours 37 mins</text>
+      </duration>
+      <distance>
+        <value>388511</value>
+        <text>389 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>51807</value>
+        <text>14 hours 23 mins</text>
+      </duration>
+      <distance>
+        <value>1581727</value>
+        <text>1,582 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>27398</value>
+        <text>7 hours 37 mins</text>
+      </duration>
+      <distance>
+        <value>811105</value>
+        <text>811 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>31670</value>
+        <text>8 hours 48 mins</text>
+      </duration>
+      <distance>
+        <value>944523</value>
+        <text>945 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>72078</value>
+        <text>20 hours 1 min</text>
+      </duration>
+      <distance>
+        <value>2195247</value>
+        <text>2,195 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>28031</value>
+        <text>7 hours 47 mins</text>
+      </duration>
+      <distance>
+        <value>874817</value>
+        <text>875 km</text>
+      </distance>
+    </element>
+  </row>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>61801</value>
+        <text>17 hours 10 mins</text>
+      </duration>
+      <distance>
+        <value>1830983</value>
+        <text>1,831 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>32115</value>
+        <text>8 hours 55 mins</text>
+      </duration>
+      <distance>
+        <value>906571</value>
+        <text>907 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>55610</value>
+        <text>15 hours 27 mins</text>
+      </duration>
+      <distance>
+        <value>1644000</value>
+        <text>1,644 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>12994</value>
+        <text>3 hours 37 mins</text>
+      </duration>
+      <distance>
+        <value>387934</value>
+        <text>388 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>60293</value>
+        <text>16 hours 45 mins</text>
+      </duration>
+      <distance>
+        <value>1850997</value>
+        <text>1,851 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>31257</value>
+        <text>8 hours 41 mins</text>
+      </duration>
+      <distance>
+        <value>881009</value>
+        <text>881 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>35175</value>
+        <text>9 hours 46 mins</text>
+      </duration>
+      <distance>
+        <value>966624</value>
+        <text>967 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>80539</value>
+        <text>22 hours 22 mins</text>
+      </duration>
+      <distance>
+        <value>2464264</value>
+        <text>2,464 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>23974</value>
+        <text>6 hours 40 mins</text>
+      </duration>
+      <distance>
+        <value>705208</value>
+        <text>705 km</text>
+      </distance>
+    </element>
+  </row>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>91591</value>
+        <text>1 day 1 hour</text>
+      </duration>
+      <distance>
+        <value>2665829</value>
+        <text>2,666 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>67606</value>
+        <text>18 hours 47 mins</text>
+      </duration>
+      <distance>
+        <value>1956492</value>
+        <text>1,956 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>86962</value>
+        <text>1 day 0 hours</text>
+      </duration>
+      <distance>
+        <value>2624536</value>
+        <text>2,625 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>51731</value>
+        <text>14 hours 22 mins</text>
+      </duration>
+      <distance>
+        <value>1492017</value>
+        <text>1,492 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>60318</value>
+        <text>16 hours 45 mins</text>
+      </duration>
+      <distance>
+        <value>1836351</value>
+        <text>1,836 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>44125</value>
+        <text>12 hours 15 mins</text>
+      </duration>
+      <distance>
+        <value>1324118</value>
+        <text>1,324 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>45550</value>
+        <text>12 hours 39 mins</text>
+      </duration>
+      <distance>
+        <value>1375634</value>
+        <text>1,376 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>21950</value>
+        <text>6 hours 6 mins</text>
+      </duration>
+      <distance>
+        <value>650516</value>
+        <text>651 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>75302</value>
+        <text>20 hours 55 mins</text>
+      </duration>
+      <distance>
+        <value>2322946</value>
+        <text>2,323 km</text>
+      </distance>
+    </element>
+  </row>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>53154</value>
+        <text>14 hours 46 mins</text>
+      </duration>
+      <distance>
+        <value>1488070</value>
+        <text>1,488 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>28091</value>
+        <text>7 hours 48 mins</text>
+      </duration>
+      <distance>
+        <value>731645</value>
+        <text>732 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>48525</value>
+        <text>13 hours 29 mins</text>
+      </duration>
+      <distance>
+        <value>1446777</value>
+        <text>1,447 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>27388</value>
+        <text>7 hours 36 mins</text>
+      </duration>
+      <distance>
+        <value>811845</value>
+        <text>812 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>31227</value>
+        <text>8 hours 40 mins</text>
+      </duration>
+      <distance>
+        <value>881822</value>
+        <text>882 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>44255</value>
+        <text>12 hours 18 mins</text>
+      </duration>
+      <distance>
+        <value>1338221</value>
+        <text>1,338 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>7490</value>
+        <text>2 hours 5 mins</text>
+      </duration>
+      <distance>
+        <value>208011</value>
+        <text>208 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>64501</value>
+        <text>17 hours 55 mins</text>
+      </duration>
+      <distance>
+        <value>1951487</value>
+        <text>1,951 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>48134</value>
+        <text>13 hours 22 mins</text>
+      </duration>
+      <distance>
+        <value>1488625</value>
+        <text>1,489 km</text>
+      </distance>
+    </element>
+  </row>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>46583</value>
+        <text>12 hours 56 mins</text>
+      </duration>
+      <distance>
+        <value>1297091</value>
+        <text>1,297 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>22608</value>
+        <text>6 hours 17 mins</text>
+      </duration>
+      <distance>
+        <value>588238</value>
+        <text>588 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>41953</value>
+        <text>11 hours 39 mins</text>
+      </duration>
+      <distance>
+        <value>1255798</value>
+        <text>1,256 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>31646</value>
+        <text>8 hours 47 mins</text>
+      </duration>
+      <distance>
+        <value>943958</value>
+        <text>944 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>35097</value>
+        <text>9 hours 45 mins</text>
+      </duration>
+      <distance>
+        <value>966071</value>
+        <text>966 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>45745</value>
+        <text>12 hours 42 mins</text>
+      </duration>
+      <distance>
+        <value>1389641</value>
+        <text>1,390 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>7606</value>
+        <text>2 hours 7 mins</text>
+      </duration>
+      <distance>
+        <value>208318</value>
+        <text>208 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>65991</value>
+        <text>18 hours 20 mins</text>
+      </duration>
+      <distance>
+        <value>2002907</value>
+        <text>2,003 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>50978</value>
+        <text>14 hours 10 mins</text>
+      </duration>
+      <distance>
+        <value>1527671</value>
+        <text>1,528 km</text>
+      </distance>
+    </element>
+  </row>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>111562</value>
+        <text>1 day 7 hours</text>
+      </duration>
+      <distance>
+        <value>3295321</value>
+        <text>3,295 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>87577</value>
+        <text>1 day 0 hours</text>
+      </duration>
+      <distance>
+        <value>2585984</value>
+        <text>2,586 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>106933</value>
+        <text>1 day 6 hours</text>
+      </duration>
+      <distance>
+        <value>3254028</value>
+        <text>3,254 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>71702</value>
+        <text>19 hours 55 mins</text>
+      </duration>
+      <distance>
+        <value>2121509</value>
+        <text>2,122 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>80289</value>
+        <text>22 hours 18 mins</text>
+      </duration>
+      <distance>
+        <value>2465843</value>
+        <text>2,466 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>21723</value>
+        <text>6 hours 2 mins</text>
+      </duration>
+      <distance>
+        <value>654477</value>
+        <text>654 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>64096</value>
+        <text>17 hours 48 mins</text>
+      </duration>
+      <distance>
+        <value>1953610</value>
+        <text>1,954 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>65521</value>
+        <text>18 hours 12 mins</text>
+      </duration>
+      <distance>
+        <value>2005126</value>
+        <text>2,005 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>95273</value>
+        <text>1 day 2 hours</text>
+      </duration>
+      <distance>
+        <value>2952437</value>
+        <text>2,952 km</text>
+      </distance>
+    </element>
+  </row>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>74129</value>
+        <text>20 hours 35 mins</text>
+      </duration>
+      <distance>
+        <value>2245326</value>
+        <text>2,245 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>45576</value>
+        <text>12 hours 40 mins</text>
+      </duration>
+      <distance>
+        <value>1420098</value>
+        <text>1,420 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>67938</value>
+        <text>18 hours 52 mins</text>
+      </duration>
+      <distance>
+        <value>2058342</value>
+        <text>2,058 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>27736</value>
+        <text>7 hours 42 mins</text>
+      </duration>
+      <distance>
+        <value>873216</value>
+        <text>873 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>23986</value>
+        <text>6 hours 40 mins</text>
+      </duration>
+      <distance>
+        <value>705110</value>
+        <text>705 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>75015</value>
+        <text>20 hours 50 mins</text>
+      </duration>
+      <distance>
+        <value>2336495</value>
+        <text>2,336 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>47813</value>
+        <text>13 hours 17 mins</text>
+      </duration>
+      <distance>
+        <value>1486655</value>
+        <text>1,487 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>51214</value>
+        <text>14 hours 14 mins</text>
+      </duration>
+      <distance>
+        <value>1535736</value>
+        <text>1,536 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>95261</value>
+        <text>1 day 2 hours</text>
+      </duration>
+      <distance>
+        <value>2949761</value>
+        <text>2,950 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>0</value>
+        <text>1 min</text>
+      </duration>
+      <distance>
+        <value>0</value>
+        <text>1 m</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

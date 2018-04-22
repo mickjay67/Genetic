@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Why, AZ 85321, USA</origin_address>
+  <destination_address>Sault Ste. Marie, MI 49783, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>122888</value>
+        <text>1 day 10 hours</text>
+      </duration>
+      <distance>
+        <value>3707219</value>
+        <text>3,707 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

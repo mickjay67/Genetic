@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Coward, SC, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>70728</value>
+        <text>19 hours 39 mins</text>
+      </duration>
+      <distance>
+        <value>2123411</value>
+        <text>2,123 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>49615</value>
+        <text>13 hours 47 mins</text>
+      </duration>
+      <distance>
+        <value>1495091</value>
+        <text>1,495 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>12205</value>
+        <text>3 hours 23 mins</text>
+      </duration>
+      <distance>
+        <value>357186</value>
+        <text>357 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>42982</value>
+        <text>11 hours 56 mins</text>
+      </duration>
+      <distance>
+        <value>1239811</value>
+        <text>1,240 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>46286</value>
+        <text>12 hours 51 mins</text>
+      </duration>
+      <distance>
+        <value>1248627</value>
+        <text>1,249 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

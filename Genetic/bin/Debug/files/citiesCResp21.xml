@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Briny Breezes, FL 33435, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>87823</value>
+        <text>1 day 0 hours</text>
+      </duration>
+      <distance>
+        <value>2707001</value>
+        <text>2,707 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>59291</value>
+        <text>16 hours 28 mins</text>
+      </duration>
+      <distance>
+        <value>1782085</value>
+        <text>1,782 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>40914</value>
+        <text>11 hours 22 mins</text>
+      </duration>
+      <distance>
+        <value>1297644</value>
+        <text>1,298 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>58223</value>
+        <text>16 hours 10 mins</text>
+      </duration>
+      <distance>
+        <value>1780389</value>
+        <text>1,780 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>69955</value>
+        <text>19 hours 26 mins</text>
+      </duration>
+      <distance>
+        <value>2167293</value>
+        <text>2,167 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

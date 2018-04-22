@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>American Fork, UT 84003, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>61203</value>
+        <text>17 hours 0 mins</text>
+      </duration>
+      <distance>
+        <value>1864098</value>
+        <text>1,864 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>76631</value>
+        <text>21 hours 17 mins</text>
+      </duration>
+      <distance>
+        <value>2224146</value>
+        <text>2,224 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>118648</value>
+        <text>1 day 9 hours</text>
+      </duration>
+      <distance>
+        <value>3620270</value>
+        <text>3,620 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>78137</value>
+        <text>21 hours 42 mins</text>
+      </duration>
+      <distance>
+        <value>2370121</value>
+        <text>2,370 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>82278</value>
+        <text>22 hours 51 mins</text>
+      </duration>
+      <distance>
+        <value>2510137</value>
+        <text>2,510 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

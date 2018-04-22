@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Canadian, TX 79014, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>46178</value>
+        <text>12 hours 50 mins</text>
+      </duration>
+      <distance>
+        <value>1353799</value>
+        <text>1,354 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>28714</value>
+        <text>7 hours 59 mins</text>
+      </duration>
+      <distance>
+        <value>847130</value>
+        <text>847 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>79163</value>
+        <text>21 hours 59 mins</text>
+      </duration>
+      <distance>
+        <value>2389475</value>
+        <text>2,389 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>44969</value>
+        <text>12 hours 29 mins</text>
+      </duration>
+      <distance>
+        <value>1289164</value>
+        <text>1,289 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>59738</value>
+        <text>16 hours 36 mins</text>
+      </duration>
+      <distance>
+        <value>1745912</value>
+        <text>1,746 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

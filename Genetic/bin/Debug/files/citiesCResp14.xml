@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Bangs, TX 76823, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>55273</value>
+        <text>15 hours 21 mins</text>
+      </duration>
+      <distance>
+        <value>1699913</value>
+        <text>1,700 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>19490</value>
+        <text>5 hours 25 mins</text>
+      </duration>
+      <distance>
+        <value>583741</value>
+        <text>584 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>75560</value>
+        <text>20 hours 59 mins</text>
+      </duration>
+      <distance>
+        <value>2354348</value>
+        <text>2,354 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>51546</value>
+        <text>14 hours 19 mins</text>
+      </duration>
+      <distance>
+        <value>1528179</value>
+        <text>1,528 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>66315</value>
+        <text>18 hours 25 mins</text>
+      </duration>
+      <distance>
+        <value>1984927</value>
+        <text>1,985 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

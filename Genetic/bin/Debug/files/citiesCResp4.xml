@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Bangs, TX 76823, USA</origin_address>
+  <destination_address>Ninety Six, SC 29666, USA</destination_address>
+  <destination_address>Cut and Shoot, TX, USA</destination_address>
+  <destination_address>Kill Devil Hills, NC 27948, USA</destination_address>
+  <destination_address>Canadian, TX 79014, USA</destination_address>
+  <destination_address>Superior, CO, USA</destination_address>
+  <destination_address>Atomic City, ID 83221, USA</destination_address>
+  <destination_address>Okay, OK, USA</destination_address>
+  <destination_address>Coward, SC, USA</destination_address>
+  <destination_address>Three Way, TN 38343, USA</destination_address>
+  <destination_address>Climax, GA 39834, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>60786</value>
+        <text>16 hours 53 mins</text>
+      </duration>
+      <distance>
+        <value>1852512</value>
+        <text>1,853 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>17206</value>
+        <text>4 hours 47 mins</text>
+      </duration>
+      <distance>
+        <value>473230</value>
+        <text>473 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>82899</value>
+        <text>23 hours 2 mins</text>
+      </duration>
+      <distance>
+        <value>2548959</value>
+        <text>2,549 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>18371</value>
+        <text>5 hours 6 mins</text>
+      </duration>
+      <distance>
+        <value>535645</value>
+        <text>536 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>42308</value>
+        <text>11 hours 45 mins</text>
+      </duration>
+      <distance>
+        <value>1273204</value>
+        <text>1,273 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>75428</value>
+        <text>20 hours 57 mins</text>
+      </duration>
+      <distance>
+        <value>2179426</value>
+        <text>2,179 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>23751</value>
+        <text>6 hours 36 mins</text>
+      </duration>
+      <distance>
+        <value>686507</value>
+        <text>687 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>66258</value>
+        <text>18 hours 24 mins</text>
+      </duration>
+      <distance>
+        <value>2042731</value>
+        <text>2,043 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>39238</value>
+        <text>10 hours 54 mins</text>
+      </duration>
+      <distance>
+        <value>1181939</value>
+        <text>1,182 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>54532</value>
+        <text>15 hours 9 mins</text>
+      </duration>
+      <distance>
+        <value>1615896</value>
+        <text>1,616 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Kill Devil Hills, NC 27948, USA</origin_address>
+  <destination_address>Winnebago, MN 56098, USA</destination_address>
+  <destination_address>Uncertain, TX 75661, USA</destination_address>
+  <destination_address>Speed, NC, USA</destination_address>
+  <destination_address>Oblong, IL 62449, USA</destination_address>
+  <destination_address>Colon, MI 49040, USA</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>76461</value>
+        <text>21 hours 14 mins</text>
+      </duration>
+      <distance>
+        <value>2262227</value>
+        <text>2,262 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>66290</value>
+        <text>18 hours 25 mins</text>
+      </duration>
+      <distance>
+        <value>2001840</value>
+        <text>2,002 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>8601</value>
+        <text>2 hours 23 mins</text>
+      </duration>
+      <distance>
+        <value>217622</value>
+        <text>218 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>50759</value>
+        <text>14 hours 6 mins</text>
+      </duration>
+      <distance>
+        <value>1482326</value>
+        <text>1,482 km</text>
+      </distance>
+    </element>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>46515</value>
+        <text>12 hours 55 mins</text>
+      </duration>
+      <distance>
+        <value>1345804</value>
+        <text>1,346 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>
